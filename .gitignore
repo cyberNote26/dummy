@@ -1,0 +1,17 @@
+# Python-specific ignore patterns
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env/
+
+# Cache Directories
+.cache/
+
+# Generated files
+*.egg-info/
+*.egg
+*.whl
